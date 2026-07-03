@@ -25,9 +25,9 @@ This repository contains:
 ## Contact
 
 LinkedIn:
-(Add your LinkedIn URL here)
+https://www.linkedin.com/in/maari1998/
 
 Email:
-(Add your email)
+marijay008@gmail.com
 
 Thank you for visiting my portfolio!
